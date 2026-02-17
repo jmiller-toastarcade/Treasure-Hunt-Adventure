@@ -101,7 +101,7 @@ public class TreasureHunt : MonoBehaviour
     {
         // TODO:
         // Write an if statement that checks if the 'distanceToTreasure' is greater than 15.5f or is less than 0.0f
-        // if true, set 'wrongWay' to True and clue equal to "Aye! Ye be going the wrong way!"
+        // if true, set 'isDead' to True and clue equal to "Aye! Ye be going the wrong way!"
         // Write an else if statement that checks if the 'distanceToTreasure' is less than 15.5f and greater than or equal to 10.5f
         // if true, set clue equal to "I sense ye be getting closer"
         // Write an else if statement that checks if the 'distanceToTreasure' is less than 10.5f and greater than or equal to 5.5f
